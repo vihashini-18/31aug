@@ -3,3 +3,6 @@ matplotlib
 pandas
 scikit-leran
 seaborn
+streamlit
+piclke
+xgboost
